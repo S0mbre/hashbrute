@@ -1,0 +1,12 @@
+*.py[cod]
+*$py.class
+*.code-workspace
+build/
+dist/
+*.egg-info/
+__pycache__/
+*/__pycache__/
+*/.vscode/
+*.json
+*.xml
+dask-worker-space/
